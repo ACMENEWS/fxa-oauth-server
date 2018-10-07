@@ -9,7 +9,7 @@ Implementation of OAuth for use by Firefox Accounts
 
 [Design document](https://github.com/mozilla/fxa-oauth-server/wiki/oauth-design)
 
-[MDN docs](https://developer.mozilla.org/en-US/Firefox_Accounts)
+[MDN docs](https://developer.mozilla.org/Mozilla/Tech/Firefox_Accounts)
 
 ## Quick Start
 
